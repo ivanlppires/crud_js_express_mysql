@@ -1,6 +1,6 @@
 # Projeto de Exemplo: CRUD com JavaScript, Express e MySQL
 
-Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD (Create, Read, Update, Delete) usando JavaScript no front-end, o framework Express no backend e interagindo com o SGBD MySQL. Este projeto é uma base sólida para iniciar o desenvolvimento de aplicativos web com funcionalidades de CRUD.
+Este é um projeto de exemplo que demonstra como criar um aplicativo web de CRUD (Create, Read, Update, Delete) usando JavaScript no front-end, o framework Express no backend e interagindo com o SGBD MySQL. Este projeto aborda um simples exemplo com fins didáticos para servir como ponto de partida no desenvolvimento de aplicativos web com funcionalidades de CRUD.
 
 ## Funcionalidades
 
