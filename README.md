@@ -80,15 +80,3 @@ Divirta-se desenvolvendo seu aplicativo de CRUD com JavaScript, Express e MySQL!
 # Estatísticas desta página
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ivanlppires&theme=dark)](https://git.io/streak-stats)
-
-Pulse:<br>
-https://github.com/ilppires/pulse<BR>
-
-Histórico de frequência de código:<BR>
-https://github.com/ilppires/crud_js_express_mysql/graphs/code-frequency<BR>
-
-Atividade de commits:<BR>
-https://github.com/ilppires/crud_js_express_mysql/graphs/commit-activity<BR>
-
-Trafego:<BR>
-https://github.com/ilppires/crud_js_express_mysql/graphs/traffic<BR>
