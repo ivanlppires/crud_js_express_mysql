@@ -74,3 +74,7 @@ Este projeto é distribuído sob a [Licença MIT](LICENSE).
 ---
 
 Divirta-se desenvolvendo seu aplicativo de CRUD com JavaScript, Express e MySQL! Se você tiver alguma dúvida ou encontrar algum problema, não hesite em abrir uma issue ou enviar um pull request. Estamos ansiosos para ver as contribuições da comunidade!
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanlppires&theme=dark)](https://git.io/streak-stats)
