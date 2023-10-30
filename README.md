@@ -27,18 +27,18 @@ Certifique-se de ter o seguinte instalado em seu sistema:
 1. Crie um banco de dados MySQL.
 2. Atualize as configurações de conexão com o banco de dados no arquivo `config.js`.
 
-## Instalação
+## Instalação do Backend
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/ivanlppires/crud_js_express_mysql.git
 ```
 
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto backend:
 
 ```bash
-cd seu-projeto
+cd crud_js_express_mysql/backend
 ```
 
 3. Instale as dependências do servidor e do cliente:
@@ -58,6 +58,10 @@ O servidor estará disponível em `http://localhost:3000`.
 ## Uso
 
 Acesse o aplicativo no seu navegador e comece a criar, ler, atualizar e excluir registros no banco de dados.
+
+## Instalação do Frontend
+
+1. Utilize um servidor web para acessar o arquivo index.html. Se sua IDE for o VSCOde, recomendo usar o complemento live server. É possível também utilizar um servidor web de sua preferência, como o apache.
 
 ## Contribuição
 
