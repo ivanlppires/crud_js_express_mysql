@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+
+<body>
+    <h1>CRUD <b>Usuários</b></h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Usuário</th>
+                <th>Senha</th>
+                <th>Ações</th>
+            </tr>
+            <tr>
+                <td><input type="text" id="id_disabled" disabled></td>
+                <td><input type="text" id="nome"></td>
+                <td><input type="text" id="senha"></td>
+                <td><button id="salvar">Salvar</button></td>
+            </tr>
+        </thead>
+        <tbody id="dados"></tbody>
+    </table>
+    <input type="hidden" id="id">
+    <script src='main.js'></script>
+</body>
+
+</html>
